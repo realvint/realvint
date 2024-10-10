@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Victor, an amazing Ruby Developer
+## Hi there! 👋 I'm Victor, a Fullstack Ruby Developer
 
 Welcome to my GitHub profile!
 
